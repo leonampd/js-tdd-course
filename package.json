@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Files created during my study about javascript and TDD from [JS com TDD na prática](https://www.udemy.com/js-com-tdd-na-pratica).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonampd/js-tdd-course.git"
+  },
+  "keywords": [
+    "javascript",
+    "tdd",
+    "course"
+  ],
+  "author": "Leonam Pereira Dias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonampd/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/leonampd/js-tdd-course#readme"
+}
